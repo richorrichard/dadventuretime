@@ -1,3 +1,3 @@
 ## Dadventuretime
 
-Welcome to the jungle!
+Early commits are fun!
